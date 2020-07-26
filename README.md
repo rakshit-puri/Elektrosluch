@@ -12,11 +12,11 @@ Moreover, get an update for different components if available.
 We can cover it with a plastic body to give it protection and make it better looking and handy.
 
 <p align = "center">
-  <img text = "Device" src = "Elektrosluch-1.jpeg" width = "60%" />  
+  <img text = "Device" src = "Elektrosluch-1.jpeg" width = "50%" />  
 </p>
 
 <p align = "center">
-  <img text = "Design" src = "elektrosluch-diy-layout.jpg" >  
+  <img text = "Design" src = "elektrosluch-diy-layout.jpg" width = "50%" / >  
 </p>
 
 # Files
