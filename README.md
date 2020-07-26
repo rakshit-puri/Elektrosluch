@@ -12,11 +12,11 @@ Moreover, get an update for different components if available.
 We can cover it with a plastic body to give it protection and make it better looking and handy.
 
 <p align = "center">
-  <img text = "Device" src = "Elektrosluch-1.jpeg" width = "40%" />  
+  <img text = "Device" src = "Elektrosluch-1.jpeg" width = "60%" />  
 </p>
 
 <p align = "center">
-  <img text = "Design" src = "elektrosluch-diy-layout.jpg" width = "40%" >  
+  <img text = "Design" src = "elektrosluch-diy-layout.jpg" >  
 </p>
 
 # Files
@@ -27,5 +27,5 @@ Images - Device and design images
 The audio files contain loud and high-pitched noise, please keep the volume low.  
 
 # Acknowledgment
-[LOM - For creating the open-source device Elektrosluch](https://store.lom.audio/products/elektrosluch-3?variant=4542168268832)
+[LOM - For creating the open-source device Elektrosluch](https://store.lom.audio/products/elektrosluch-3?variant=4542168268832)  
 [Make: Community - For providing the idea and design](https://github.com/samuelcust/flappy-bird-assets )
