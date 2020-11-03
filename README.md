@@ -29,4 +29,4 @@ The audio files contain loud and high-pitched noise, please keep the volume low.
 
 # Acknowledgment
 [LOM - For creating the open-source device Elektrosluch](https://store.lom.audio/products/elektrosluch-3?variant=4542168268832)  
-[Make: Community - For providing the idea and design](https://github.com/samuelcust/flappy-bird-assets )
+[Make: Community - For providing the idea and design](https://makezine.com/projects/weekend-project-sample-weird-sounds-electromagnetic-fields/)
