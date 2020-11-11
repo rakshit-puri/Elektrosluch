@@ -1,7 +1,7 @@
 # Elektrosluch
 
 The objective of this project is to create a device capable of sensing electromagnetic waves, interpret it and give output as sound wave. This device is called ELEKTROSLUCH.
-When the circuit is put near a sources of constant potential difference like laptop and mobile phone it produced sound. The signals were transferred to the source and vice versa
+When the circuit is put near a sources of constant potential difference like laptop and mobile phone, it produced sound. The signals were transferred to the source and vice versa
 through radio waves and could easily be demodulated to sound waves. Extracting the original information-bearing signal from a carrier wave is called demodulation.
 A demodulator is an electronic circuit that is used to recover the information content from the modulated carrier wave.
 A number of observations were taken and recorded for future reference.
